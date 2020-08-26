@@ -51,9 +51,6 @@
     position: relative;
     height: 100%;
 }
-.teambox .player:last-child .player_data {
-    border-radius: 0 0 20px 20px;
-}
 
 .teambox.right .player .player_data {
     flex-direction: row-reverse;
@@ -283,7 +280,7 @@
 }
 
 .teambox .player .hp_bar {
-    height: 2px;
+    height: 5px;
 }
 .teambox.right .player .hp_bar {
     align-self: flex-end;

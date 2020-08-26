@@ -80,12 +80,20 @@
     border-bottom: 6px solid var(--color-new-ct);
 }
 
-.observed.T .main_row .username_container .username,
+.observed.T .main_row .username_container .username {
+    color: var(--color-new-t);
+    font-size: 25px
+}
+
 .observed.T .stats_row .ammo .ammo_counter .ammo_reserve {
     color: var(--color-new-t)
 }
 
-.observed.CT .main_row .username_container .username,
+.observed.CT .main_row .username_container .username {
+    color: var(--color-new-ct);
+    font-size: 25px
+}
+
 .observed.CT .stats_row .ammo .ammo_counter .ammo_reserve {
     color: var(--color-new-ct)
 }

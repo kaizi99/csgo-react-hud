@@ -1,7 +1,7 @@
 {
-    "name":"Lexogrine HUD",
+    "name":"Lexogrine HUD modified by ANATY",
     "version":"1.4.0",
-    "author":"Lexogrine",
+    "author":"Lexogrine, ANATY",
     "legacy": false,
     "radar": true,
     "killfeed": true,
